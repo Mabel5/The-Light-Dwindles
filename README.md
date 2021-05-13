@@ -8,5 +8,5 @@ The repository contains a full unity project and game build for Windows x86<br>
 ### Controls
 <p>
 MSB 1: Fire (Shoot)<br>
-WASD to move<br>
-Walk over items to interact with them<br></p>
+WASD: move<br>
+Items can be interacted with by walking over them.<br></p>
