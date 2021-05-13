@@ -10,3 +10,10 @@ The repository contains a full unity project and game build for Windows x86<br>
 MSB 1: Fire (Shoot)<br>
 WASD: move<br>
 Items can be interacted with by walking over them.<br></p>
+
+### Credits
+Rogue Fantasy Catacombs Asset Pack:<br>
+https://assetstore.unity.com/packages/2d/environments/rogue-fantasy-catacombs-167275#description<br>
+Key Pack:<br>
+https://assetstore.unity.com/packages/2d/textures-materials/2d-pixel-key-pack-130411<br>
+
